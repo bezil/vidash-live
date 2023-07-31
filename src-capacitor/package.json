@@ -1,0 +1,12 @@
+{
+  "name": "vidash-live",
+  "version": "2.0.2",
+  "description": "Meet with people through our free online Video Conference Application",
+  "author": "Devbez Studio ",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^2.4.0",
+    "@capacitor/cli": "^2.0.0",
+    "@capacitor/core": "^2.0.0"
+  }
+}
